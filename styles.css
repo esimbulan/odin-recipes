@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 0%, 0.3);
+}
+
+
+a {
+    text-decoration: none;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
